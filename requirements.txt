@@ -1,3 +1,6 @@
 pydantic~=1.10.9
 fastapi~=0.97.0
 starlette~=0.27.0
+setfit~=0.7.0
+uvicorn~=0.22.0
+emoji~=2.5.1
